@@ -1,6 +1,7 @@
 # Questions and Answers
 
-how are you? :D
+HI
+How are you? :D
 
 I'm good. How r u?
 
