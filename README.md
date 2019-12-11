@@ -1,0 +1,1 @@
+Hello! This isn't a repo to not be taken seriously. This repo is to be used in order to learn how to collaberate on GitHub.
